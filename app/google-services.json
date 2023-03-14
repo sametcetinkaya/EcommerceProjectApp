@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489450231933",
+    "project_id": "ecommerceprojectapp-d3091",
+    "storage_bucket": "ecommerceprojectapp-d3091.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489450231933:android:9e34e3339551a658fab914",
+        "android_client_info": {
+          "package_name": "com.sametcetinkaya.ecommerceprojectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489450231933-30j5h87fpsc7foeq3acgi341batt1pp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdzqCIN44KRU_EZB-4GuA2PNkaeAbDdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489450231933-30j5h87fpsc7foeq3acgi341batt1pp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
